@@ -1,0 +1,5 @@
+ $ sudo apt-get install nvidia-current-dev
+$ dpkg -L nvidia-current-dev | grep gl.h
+/usr/include/nvidia-current/GL/gl.h
+$ dpkg -L nvidia-current-dev | grep cl.h
+/usr/include/nvidia-current/CL/cl.h

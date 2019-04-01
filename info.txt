@@ -1,0 +1,5 @@
+/usr/include/GL/
+/usr/lib
+/usr/lib64
+
+
